@@ -1,5 +1,3 @@
-
-
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 Soy un desarrollador 💻 apasionado y entusiasta que utiliza mis habilidades técnicas 🌐 y creativas para crear soluciones innovadoras y compartir conocimiento valioso. 🌈
